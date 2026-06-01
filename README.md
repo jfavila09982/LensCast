@@ -1,4 +1,4 @@
-# LensCast
+# LensCast FE
 
 LensCast is a mobile-first React + Vite live streaming UI prototype with camera preview, mic toggle, live stats, and chat simulation.
 
